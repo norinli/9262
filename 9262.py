@@ -5,4 +5,4 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('9262第五次222')
+    print_hi('9262slave第一次提交')
